@@ -1,0 +1,13 @@
+'service',
+'flag',
+ 'src_bytes',
+  'dst_bytes
+  ', 'count',
+   'srv_count',
+
+ 'srv_serror_rate'
+  , 'same_srv_rate', '
+   dst_host_count',
+   'dst_host_srv_count
+   ', 'dst_host_same_src_port_rate',
+   'dst_host_serror_rate', 'difficulty'

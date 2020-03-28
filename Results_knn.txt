@@ -1,0 +1,56 @@
+===================================================MODEL USED : KNN===================================================================
+model accuracy = 0.977186807456655
+
+
+malware packets============================================::::
+no of malware packets2
+Malware detected in packet no:5
+
+Malware detected in packet no:10
+
+Normal packets===============================================::::
+no of normal packets44
+Normal Packet detected in packet no:1
+Normal Packet detected in packet no:2
+Normal Packet detected in packet no:3
+Normal Packet detected in packet no:4
+Normal Packet detected in packet no:6
+Normal Packet detected in packet no:7
+Normal Packet detected in packet no:8
+Normal Packet detected in packet no:9
+Normal Packet detected in packet no:11
+Normal Packet detected in packet no:12
+Normal Packet detected in packet no:13
+Normal Packet detected in packet no:14
+Normal Packet detected in packet no:15
+Normal Packet detected in packet no:16
+Normal Packet detected in packet no:17
+Normal Packet detected in packet no:18
+Normal Packet detected in packet no:19
+Normal Packet detected in packet no:20
+Normal Packet detected in packet no:21
+Normal Packet detected in packet no:22
+Normal Packet detected in packet no:23
+Normal Packet detected in packet no:24
+Normal Packet detected in packet no:25
+Normal Packet detected in packet no:26
+Normal Packet detected in packet no:27
+Normal Packet detected in packet no:28
+Normal Packet detected in packet no:29
+Normal Packet detected in packet no:30
+Normal Packet detected in packet no:31
+Normal Packet detected in packet no:32
+Normal Packet detected in packet no:33
+Normal Packet detected in packet no:34
+Normal Packet detected in packet no:35
+Normal Packet detected in packet no:36
+Normal Packet detected in packet no:37
+Normal Packet detected in packet no:38
+Normal Packet detected in packet no:39
+Normal Packet detected in packet no:40
+Normal Packet detected in packet no:41
+Normal Packet detected in packet no:42
+Normal Packet detected in packet no:43
+Normal Packet detected in packet no:44
+Normal Packet detected in packet no:45
+Normal Packet detected in packet no:46
