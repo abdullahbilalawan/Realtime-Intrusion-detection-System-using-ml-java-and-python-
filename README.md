@@ -28,4 +28,19 @@ Next we have the homepage screen. In this we have all the functions. To use them
 3. Apply the model
 4. see results
 
-![]()
+
+
+
+# HOMEPAGE
+
+![](ss/Capture1.PNG)
+
+
+
+
+# FUTURE IMPROVEMENTS
+
+1. ADD more ml models
+2. Improve the GUI
+3. Use unsupervised learning
+4. Solve the issue of selecting network interface from console
