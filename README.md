@@ -1,4 +1,4 @@
-# Realtime-Intrusion-detection-using-ml-java-and-python-
+# Realtime-Intrusion-detection-system-using-ml-java-and-python-
 The application of using ML in intrusion detection has mostly been limited to research work
 and showing results on the formally used kdd99 dataset. In this project I have developed  a 
 simple mechanism for realtime intrusion detection using java pcap4j library and python to 
