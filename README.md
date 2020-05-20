@@ -14,7 +14,6 @@ you can see the screen shots of GUI below.Dont mind the login screen.
 
 # LOGIN SCREEN
 
-![](ss/Capture.PNG)
 
 
 
